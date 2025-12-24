@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Gopi Prajapati  
 
-<!--
-**DevGopi-17/DevGopi-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **First-Year Computer Science Student**  
+💻 **Python Developer | SQL | AI Tools | Networking Enthusiast**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+I am a passionate **Computer Science undergraduate** who loves turning ideas into working solutions through code.  
+Currently exploring **software development, databases, and AI-powered tools**, while building a strong foundation in **computer networks and problem-solving**.
+
+I believe in **learning by building**, and I’m continuously improving my skills through hands-on projects and experimentation.
+
+---
+
+## 🛠️ Skills & Technologies  
+
+- **Programming:** Python  
+- **Databases:** SQL (MySQL / PostgreSQL basics)  
+- **AI Tools:** ChatGPT, GitHub Copilot, AI-powered development tools  
+- **Networking:** Basics of Computer Networks, TCP/IP, OSI Model  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📚 Currently Learning  
+
+- Data Structures & Algorithms  
+- Advanced Python concepts  
+- Database design & optimization  
+- Foundations of Artificial Intelligence & Machine Learning  
+
+---
+
+## 🌱 Goals  
+
+- Build impactful real-world projects  
+- Contribute to open-source  
+- Grow into an **AI / ML Engineer**  
+- Continuously improve coding and system design skills  
+
+---
+
+## 📌 Projects  
+
+🚧 *Projects coming soon — currently building and learning!*  
+
+---
+
+## 📫 Connect With Me  
+
+- GitHub: **[Gopi Prajapati](https://github.com/DevGopi-17)**  
+- LinkedIn: *Coming Soon*  
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
