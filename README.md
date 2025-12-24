@@ -54,7 +54,8 @@ I believe in **learning by building**, and I’m continuously improving my skill
 ## 📫 Connect With Me  
 
 - GitHub: **[Gopi Prajapati](https://github.com/DevGopi-17)**  
-- LinkedIn: *Coming Soon*  
+- LinkedIn: **[Gopi Prajapati](https://www.linkedin.com/in/gopi-prajapati/)**
+- Instagram: **[gopi_prjapti_17](https://www.instagram.com/gopi_prjapti_17/)**
 
 ---
 
