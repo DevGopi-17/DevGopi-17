@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 
 I am a passionate **Computer Science undergraduate** who loves turning ideas into working solutions through code.  
-Currently exploring **software development, databases, and AI-powered tools**, while building a strong foundation in **computer networks and problem-solving**.
+Currently exploring **Data Engineer, databases, and AI-powered tools**, while building a strong foundation in **computer networks and problem-solving**.
 
 I believe in **learning by building**, and I’m continuously improving my skills through hands-on projects and experimentation.
 
