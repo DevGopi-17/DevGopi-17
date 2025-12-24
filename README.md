@@ -32,6 +32,8 @@ I believe in **learning by building**, and I’m continuously improving my skill
 ![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 🟢 **47 contributions in the last year**
+
+
 ## 📚 Currently Learning  
 
 ---
@@ -40,15 +42,6 @@ I believe in **learning by building**, and I’m continuously improving my skill
 - Advanced Python concepts  
 - Database design & optimization  
 - Foundations of Artificial Intelligence & Machine Learning  
-
----
-
-## 🌱 Goals  
-
-- Build impactful real-world projects  
-- Contribute to open-source  
-- Grow into an **AI / ML Engineer**  
-- Continuously improve coding and system design skills  
 
 ---
 
