@@ -47,7 +47,7 @@ I believe in **learning by building**, and I’m continuously improving my skill
 
 ## 📌 Project lists
 
-![Build your own x](https://github.com/DevGopi-17/build-your-own-x)
+**[Build your own x](https://github.com/DevGopi-17/build-your-own-x)
 
 ---
 
