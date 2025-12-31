@@ -30,7 +30,6 @@ I believe in **learning by building**, and I’m continuously improving my skill
 
 ![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-🟢 **47 contributions in the last year**
 
 ---
 ## 📚 Currently Learning  
