@@ -44,7 +44,6 @@ I believe in **learning by building**, and I’m continuously improving my skill
 ## 📌 Project lists
 
 - [Build your own x](https://github.com/DevGopi-17/build-your-own-x)
-- [Student Management System](https://github.com/DevGopi-17/Student-Management-System.git)
 - [Multi-Functional Security Toolkit](https://github.com/DevGopi-17/Multi-Functional-Security-Toolkit.git)
 - [Movie Recommendation System](https://github.com/DevGopi-17/Movie-Recommendation-System.git)
 
